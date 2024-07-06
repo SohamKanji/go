@@ -2,6 +2,8 @@ package main
 
 import "fmt"
 
+// maps are reference types
+
 func main() {
 
 	// var colors map[string]string
